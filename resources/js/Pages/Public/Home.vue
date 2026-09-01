@@ -45,10 +45,10 @@ const difficultyLabel = {
     <!-- Hero -->
     <section class="px-6 md:px-10 pt-8 pb-10 md:pt-16 md:pb-14 max-w-6xl mx-auto">
       <p class="font-mono text-xs tracking-[0.2em] uppercase text-river-dark mb-5">
-        Ruta 360 Chile · Región Metropolitana
+        Ruta 360 Chile · Región de La Araucanía
       </p>
       <h1 class="font-display font-medium text-[2.5rem] leading-[1.05] md:text-6xl md:leading-[1.02] max-w-2xl text-balance">
-        {{ destination.name }}, a 45 minutos de Santiago
+        {{ destination.name }}, en la puerta del Parque Nahuelbuta
       </h1>
       <p class="mt-6 text-base md:text-lg text-ink/70 max-w-lg">
         {{ destination.description }}
@@ -57,16 +57,16 @@ const difficultyLabel = {
       <!-- Franja tipo letrero de sendero -->
       <div class="mt-10 md:mt-12 border-y border-ink/15 py-5 flex flex-wrap gap-x-10 gap-y-4 font-mono">
         <div>
-          <div class="text-2xl md:text-3xl font-medium text-river-dark leading-none">45</div>
-          <div class="text-[11px] uppercase tracking-wide text-ink/55 mt-1.5">min desde Santiago</div>
+          <div class="text-2xl md:text-3xl font-medium text-river-dark leading-none">131</div>
+          <div class="text-[11px] uppercase tracking-wide text-ink/55 mt-1.5">km desde Temuco</div>
         </div>
         <div>
-          <div class="text-2xl md:text-3xl font-medium text-river-dark leading-none">93</div>
-          <div class="text-[11px] uppercase tracking-wide text-ink/55 mt-1.5">km hasta El Morado</div>
+          <div class="text-2xl md:text-3xl font-medium text-river-dark leading-none">34–42</div>
+          <div class="text-[11px] uppercase tracking-wide text-ink/55 mt-1.5">km al Parque Nahuelbuta</div>
         </div>
         <div>
-          <div class="text-2xl md:text-3xl font-medium text-river-dark leading-none">1.100–3.500</div>
-          <div class="text-[11px] uppercase tracking-wide text-ink/55 mt-1.5">msnm del recorrido</div>
+          <div class="text-2xl md:text-3xl font-medium text-river-dark leading-none">1.532</div>
+          <div class="text-[11px] uppercase tracking-wide text-ink/55 mt-1.5">msnm cumbre más alta</div>
         </div>
       </div>
     </section>
@@ -154,7 +154,7 @@ const difficultyLabel = {
     </section>
 
     <footer class="px-6 md:px-10 max-w-6xl mx-auto py-10 mt-4 border-t border-ink/10 font-mono text-[11px] text-ink/40">
-      Ruta {{ destination.name }} 360 — piloto de Ruta 360 Chile.
+      Ruta {{ destination.name }} — piloto de Ruta 360 Chile.
     </footer>
   </div>
 </template>
