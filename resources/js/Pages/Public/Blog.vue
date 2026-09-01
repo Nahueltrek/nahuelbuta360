@@ -17,7 +17,7 @@ defineProps({
 
     <main class="px-6 md:px-10 max-w-5xl mx-auto pb-16">
       <h1 class="font-display font-medium text-3xl md:text-4xl mt-4 mb-10">
-        Notas de Cajón del Maipo
+        Notas de Nahuelbuta
       </h1>
 
       <div v-if="articles.length" class="grid gap-5 sm:grid-cols-2">
