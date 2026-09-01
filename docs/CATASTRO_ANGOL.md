@@ -48,6 +48,13 @@ y conviene reconfirmarlos abriendo el link antes de publicar.
   estaciones, bosque nativo. Misma fuente.
 - **Camping Pehuenco (CONAF)** — 10 sitios, mesas, fogones, baños rústicos,
   agua; abierto todo el año. Fuente: snippet CONAF/Cañete Turístico.
+- **Sendero El Avellano** (nombre correcto — un segundo afiche municipal lo
+  nombra distinto al primero, que decía "Los Avellanos" en plural) —
+  bifurcación izquierda, sector Los Toldos - Vegas Blancas. Sendero natural
+  de baja dificultad, bosque nativo, flora y fauna de la Cordillera de
+  Nahuelbuta. Tel. 9 7703 4035.
+  Fuente: Afiches oficiales "Servicios de Alojamiento" (Municipalidad de
+  Angol / Depto. Turismo), 1ra y 2da versión.
 
 ## Alojamiento
 
@@ -69,6 +76,175 @@ y conviene reconfirmarlos abriendo el link antes de publicar.
 **Excluidos por falta de segunda fuente** (revisar manualmente antes de
 sumarlos): "Cabañas Loteo Mónaco", "Hostal Rancel" — aparecen en listados
 agregados pero sin confirmación independiente de vigencia/contacto.
+
+### Alojamiento camino al Parque Nacional Nahuelbuta — fuente oficial (afiche municipal)
+
+Fuente: afiche "Servicios de Alojamiento — Camino al Parque Nacional
+Nahuelbuta", Ilustre Municipalidad de Angol / Departamento de Turismo,
+Cultura y Deporte, sello Municipalidad Turística SERNATUR — subido
+directamente por el usuario. Ubicaciones dadas por km de camino/sector, sin
+dirección postal ni coordenadas — hay que geolocalizar por el kilómetro
+indicado (los caminos de referencia son Angol–Vegas Blancas y Angol–Chanleo,
+Ruta R-126) al cargar en el admin.
+
+| Nombre | Ubicación | Teléfono | Descripción |
+|---|---|---|---|
+| Cabañas Bellavista | Sitio 5-B, final calle Colima, camino Angol–Vegas Blancas | 9 6627 9043 | Vista panorámica hacia Angol, cabañas equipadas, tinajas |
+| Cabañas Piedra Blanca | Piedra Blanca 235, Sector Las Acequias | 9 9438 4250 | Cabañas para 2 a 6 personas, vista a la montaña |
+| Cabañas Estero Las Minas, Arrayán y Coihue | Parcela Piedra de Afilar N°5, Sector Piedra Blanca | 9 3262 3014 | Cabañas en bosque nativo, vistas panorámicas |
+| Observatorio Pewen | Cruce Chanleo, aprox. 14 km de Angol | 9 4847 0261 | Astroturismo, observación astronómica |
+| Refugio Bosque Nativo | Ruta R-126, km 15, camino Angol–Chanleo | 9 4071 5131 | Refugio de montaña, astroturismo, turismo rural |
+| Cabañas El Manzano | Sector El Manzano, Km 20 | 9 5654 3632 | Cabañas, camping, kiosco, junto al río Picoiquén |
+| Domo y Ruka Nahuelbuta | Sector El Manzano, Km 21 | 9 3177 9863 | Alojamiento en domos, tinajas |
+| Domo Ecoturismo Chanleo | Ruta R-126, km 14,5, camino Angol–Chanleo | 9 4245 7181 | Eco-lodge, domo, tinaja, hot tub |
+| Domo Nahuelbuta | Ruta 126, N° 15.600, sector Chanleo | 9 2726 0285 | Domos junto al río Picoiquén, senderos |
+| Cabañas Lomas el Carmen | Sector El Manzano, Km 22 | 9 9731 3786 | Cabañas equipadas, entorno natural |
+| Cabañas Cordillera de Nahuelbuta | Sector El Manzano, Km 27 | 9 7888 3700 | Piscina, tinajas, calefacción a leña, arriendo de bicicletas |
+| Cabañas Refugio Nahuelbuta | Sector Vegas Blancas, Km 24 | 9 7669 8618 | Tinaja privada, terraza, piscina |
+| Loft Alto Nahuelbuta | Camino a la Cordillera de Nahuelbuta, aprox. Km 24 (7 km del parque) | 9 2628 7010 | Equipado para 6 personas, estero natural, tinaja privada |
+| Centro de eventos Los Robles de Vegas Blancas | Km 31, camino Angol–Vegas Blancas–Parque Nacional Nahuelbuta | 9 4565 8067 | Eventos familiares, gastronomía típica campesina |
+| Cabaña Los Robles (hospedaje) | Sector Vegas Blancas, Km 31 | 9 4565 8067 | Tinajas, camping, arriendo de caballos |
+| Cabañas Nahuelbuta de Vegas Blancas | Camino Angol–Vegas Blancas 30 km, bifurcación San Ramón 1,5 km | 9 7876 2616 | Cabaña rústica de montaña |
+| Cabañas/Ecocamping El Rincón | Vegas Blancas 30 km, bifurcación San Ramón 2 km | 9 8741 6030 | Turismo ecológico, cabaña + camping |
+| Casona Gastronomía de Montaña | Km 32, Angol–Vegas Blancas | 9 3576 1581 | Almuerzos, cafetería, atención de eventos |
+| Refugio de Montaña María Sylvester Rasch | Sector Vegas Blancas, Km 32 | 9 9126 9814 | Refugio de amplia capacidad para grupos, piscina |
+| Cabaña Viejo Roble | Sector Vegas Blancas, Km 32 | 9 9913 4777 | Tinajas, camping, desayunos |
+| Cabaña Coimallín | Sector Los Corrales, Vegas Blancas, Km 34 | 9 4922 5871 | Tinaja, senderos, acceso al río |
+| Cabañas El Cajón de Nahuelbuta | Sector Los Corrales, Vegas Blancas, Km 32 | 9 9101 2443 | 3 cabañas, senderos, camping, tinajas |
+| Cabañas Alto los Corrales | Km 35, camino Parque Nacional Nahuelbuta | 9 7106 3313 | Sendero "El Chucao", tinajas |
+| Cabañas Ruiz | Km 36, camino Parque Nacional Nahuelbuta | 9 8837 5655 | Mismo negocio que "Restaurant Ruiz" (ver Gastronomía) |
+
+**Servicios complementarios (misma fuente):**
+
+| Servicio | Teléfono | Descripción |
+|---|---|---|
+| Los Hornitos de Nahuelbuta | 9 9614 7592 | Tortillas, empanadas y almuerzos |
+| Almacén Don Fernando | 9 9591 6482 | Almacén / comercio local |
+
+### Alojamiento — catastro ampliado (2do afiche oficial @angolturismo / Depto. Turismo Municipal)
+
+Segundo afiche municipal, más completo que el anterior — agrega categorías
+enteras (campings, cabañas urbanas, hoteles, hospedajes, hostales) y repite
+parcialmente las cabañas camino al parque **con datos que no siempre
+coinciden con el primer afiche**. Ver el aviso de discrepancias al final de
+esta subsección antes de cargar nada — varias requieren una llamada de
+confirmación antes de publicar.
+
+**Campings camino al Parque Nacional Nahuelbuta**
+
+| Nombre | Ubicación | Teléfono | Descripción |
+|---|---|---|---|
+| Camping Las Quilas | Km. 22, camino Angol–El Manzano | 9 7377 1969 | A orillas del río en El Manzano, sitios sombreados |
+| Camping Pehuenco (CONAF) | Km. 42,5, sector Pehuenco | 9 9643 6927 | En el corazón del parque, rodeado de araucarias — **primer teléfono verificado para este camping CONAF, antes no lo teníamos** |
+| Camping El Manzano | Km. 20, camino Angol–El Manzano | 9 7981 4825 / 9 5654 3632 | Piscina, áreas verdes, mesones, acceso al río |
+| Camping Los Panchos | Ruta Angol–Renaico, pasado puente Malleco, 900 m al interior | 9 4281 2725 | Ambiente tranquilo, áreas verdes |
+| Cabaña/Camping El Rincón | Vegas Blancas Km. 35, San Ramón 2 km | 9 8741 6030 | Refugio ecológico, también ofrece camping (ver también en Alojamiento) |
+
+**Cabañas en Angol y alrededores (zona urbana/periurbana, no camino al parque)**
+
+| Nombre | Ubicación | Teléfono | Descripción |
+|---|---|---|---|
+| Cabañas Canteras Deuco | Km. 8 sur de Angol | 9 9847 5321 / 9 9067 0969 | Piscina temperada y fría, sauna, kayak, canopy, cabalgatas |
+| Cabañas Rehue | Sector urbano de Angol (sin dirección exacta en la fuente) | 9 7748 4940 | WiFi, TV cable, calefacción, cercanía a servicios |
+| Cabañas Alto de Mónaco | Km. 1, Angol–Los Sauces | 9 9599 0940 | Departamentos de 2 dormitorios, admiten mascotas |
+| Cabaña Lomas del Rosario | Sector El Rosario | 9 3426 8807 / 9 3426 8792 | 3 dormitorios, piscina privada, jardín |
+| Cabaña El Ermitaño | Ruta Angol–Renaico, Km. 4,5 | 9 5517 5297 / 9 6681 0440 | Mismo negocio que "Restaurante El Ermitaño" (ver Gastronomía) — mismo km y teléfono principal |
+| Cabañas Quillay | Valle de San Juan | 9 3547 6861 | Tinajas de agua caliente, aire acondicionado, desayuno |
+| Cabañas Vanisi | Km. 6, Fundo El Parque | 9 9932 6722 | Áreas verdes, piscina, tinaja |
+| Cabañas Colinas de Villa Verde | Km 1, Ruta 180 Angol–Renaico | 45 2 711973 / 9 7495 0873 | Hotel + cabañas, piscina, quincho |
+| Cabañas Los Confines | Ruta Nahuelbuta a Renaico, bifurcación Calle Los Confines Sur | 9 2050 5713 | Refugio para parejas, tinaja y sauna, a 1 km de Angol |
+
+**Hoteles (zona urbana)**
+
+| Nombre | Dirección | Teléfono | Descripción |
+|---|---|---|---|
+| Apart Hotel Bellavista | Copihue N° 029, Edificio Don Gregorio | 9 7969 7365 | Cabañas estándar/familiares/de lujo, hidromasaje |
+| Departamentos Entre Ríos | Pedro Aguirre Cerda N° 07, Sector El Rosario | 9 8136 0824 | Departamentos amoblados, 2 habitaciones, canchas de pádel |
+| Hostel Millaray Inn Express | Av. O'Higgins N° 1037 | 5 2 711570 / 45 271 2022 | Baño privado, escritorio, desayuno continental |
+| Hotel Duhatao | Prat N° 420 | 45 2 714320 | Estilo moderno, WiFi de alta velocidad, restaurante |
+| Hotel y Cabañas Angol | Av. O'Higgins N° 2598 | 9 5901 2603 | Hotel + cabañas 2-3 dormitorios; misma dirección que "Choza Andina" (ver Gastronomía) — verificar si es el mismo complejo |
+| Hotel Club Social | Caupolicán N° 492 | 45 2 599150 / 9 9789 5639 | Restaurante, bar, piscina en temporada estival; mismo teléfono que "Restaurant Club Social" (Caupolicán 498, ver Gastronomía) — es el mismo negocio, complejo hotel+restaurant |
+
+**Hospedajes**
+
+| Nombre | Dirección | Teléfono | Descripción |
+|---|---|---|---|
+| Hospedaje Araucaria Angol | Andrés Bello N° 236 | 9 9773 5578 | Ambiente hogareño, atención personalizada |
+| Hospedaje Centro Spa | Vergara N° 273 | 45 2 712323 / 9 3494 5303 | Atención al detalle, tranquilidad |
+| Hospedaje Corazón de Cordillera | Julio Sepúlveda N° 698 | 9 7219 3955 / 9 9343 0041 | En pleno centro de Angol |
+| Hospedaje El Ensueño | Pedro Aguirre Cerda N° 1135 | 9 6106 0954 | Reconocido por su limpieza y trato amable |
+| Hospedaje Juana Diosa Orellana | O'Higgins N° 2884 | 9 5819 4798 / 45 2 714092 | Alojamiento residencial sencillo y económico |
+| Hospedaje Los Rieles | Calle La Paz N° 70 | 9 9153 5698 | Hospedaje + complejo de cabañas |
+| Hospedaje Valdivia | Andrés Bello 236 | 9 9773 5578 | **Misma dirección y teléfono que "Hospedaje Araucaria Angol" — probable duplicado en la fuente, verificar cuál nombre es el vigente antes de cargar ambos** |
+| Hospedaje Victoria MG | Colipí N° 1358 | 9 4051 0629 | Combina hospedaje y agroturismo |
+| Hospedaje La Nona | Gral. Óscar Bonilla, Angol (sin número en la fuente) | 9 9819 7119 | Alojamiento completo, ambiente tranquilo |
+
+**Hostales**
+
+| Nombre | Dirección | Teléfono | Descripción |
+|---|---|---|---|
+| Hostal Rancel | Ilabaca N° 524 | 44 3 050411 / 9 7994 8379 | Mismo negocio que "Restaurant Rancel Tour" / "Terminal Rancel Tour" (ver Gastronomía y Transporte) |
+| Hostal Bilbao | Bilbao N° 157 | 9 7748 3697 | Ambiente familiar y tranquilo |
+| Hostal Bostón | Julio Sepúlveda N° 328 | 9 7915 6015 / 9 8245 5518 | Funcional, ambiente tranquilo |
+| Hostal El Valle | Julio Sepúlveda N° 1060 | 9 6715 6906 | Orientado a viajeros de paso o corporativos — antes solo lo teníamos sin dirección (Booking.com) |
+| Hostal El Vergel | Km 5, camino Angol–Collipulli | 9 9538 4919 | Vinculado a la tradición agrícola local |
+| Hostal Florecer | Esmeralda N° 172 | 9 9347 3406 | Ambiente familiar |
+| Hostal Gina Medina | Covadonga N° 55 | 9 9123 8085 | Antes solo lo teníamos sin dirección (turismo.angol.cl) — confirmado acá |
+| Hostal La Casona | Alberto Larraguibel N° 168 | 9 9646 1606 | Habitaciones cómodas, calefacción y WiFi |
+| Aladin Hostal | Lote 7 El Naranjal, camino Villa El Parque, Angol | 9 9221 8789 | Cerca de Huequén |
+
+**⚠️ Discrepancias entre los dos afiches municipales — verificar antes de cargar:**
+
+- **Hotel Ruiz**: el listado de hoteles de este 2do afiche da el mismo
+  domicilio que ya teníamos por Booking.com (Av. O'Higgins/Bernardo
+  O'Higgins N° 331) pero con **teléfono distinto: 9 8837 5655** — que es
+  el mismo número que "Cabañas Ruiz" y "Restaurant Ruiz" camino al parque.
+  Posible explicación: la familia Ruiz administra las tres cosas con un
+  solo contacto. Llamar para confirmar antes de cargar como 3 negocios
+  separados vs. 1 solo negocio con 3 ubicaciones.
+- **Hotel Boutique 202**: Booking.com daba tel. +56 9 9887 6022; este
+  afiche da **45 2 649030**. Confirmar cuál es el vigente.
+- **Cabaña Coimallín**: 1er afiche decía Km 34, sector Los Corrales; este
+  dice **Km 35**. Diferencia menor, puede ser redondeo.
+- **Refugio de Montaña María Sylvester Rasch**: 1er afiche decía Km 32,
+  tel. 9 9126 9814; este dice **Km 33, tel. 9 9991 6680 / 9 4974 8682**
+  (teléfono totalmente distinto). Confirmar antes de cargar.
+- **Cabañas Cordillera de Nahuelbuta**: 1er afiche decía Km 27; este dice
+  **Km 21**. Diferencia grande — confirmar con el negocio.
+- **Ecoturismo Chanleo / Domo Ecoturismo Chanleo**: 1er afiche la ubica en
+  "Ruta R-126, km 14,5, camino Angol–Chanleo"; este la ubica en **"Vegas
+  Blancas Km 35, San Ramón 2 km"** — son descripciones de zona bastante
+  distintas para el mismo nombre de negocio. Podrían ser dos
+  emprendimientos distintos con nombre parecido, o un error de alguna de
+  las dos fuentes.
+- **Domos Nahuelbuta**: 1er afiche la ubica en "Ruta 126 N°15.600, sector
+  Chanleo"; este dice **"Sector El Manzano, km 21"** — misma situación que
+  el punto anterior, confirmar si son el mismo lugar.
+- **Loft Alto Nahuelbuta**: 1er afiche tel. 9 2628 7010; este dice
+  **9 2050 5713** (que además es el mismo teléfono que "Cabañas Los
+  Confines", un negocio urbano distinto — revisar con más cuidado).
+- **Los Hornitos de Nahuelbuta**: 9614 7592 (1er afiche) vs. **9614 7595**
+  (este) — último dígito distinto, podría ser typo en cualquiera de las
+  dos fuentes.
+
+### Agrupación oficial "Ruta Ecoturismo Nahuelbuta"
+
+La misma fuente incluye un mapa y listado numerado de 14 emprendimientos
+asociados formalmente en la "Agrupación Ruta Ecoturismo Nahuelbuta"
+(sitio web `agrupacionecoturismonahuelbuta.cl`, Instagram
+`@ecoruta_nahuelbuta`), con ubicación aproximada por sector en el mapa:
+Los Toldos, Vegas Blancas, El Manzano, Chanleo y Junquillar (bosque
+Junquillar de CMPC, con web propia `bosquevivocmpc.com/parques/`). Todos
+menos el primero ya están en la tabla de arriba — este listado sirve para
+confirmar cuáles tienen respaldo de la agrupación oficial (útil como señal
+de "verificado" al decidir el orden de carga):
+
+Parque CMPC Junquillar · Cabañas Cordillera de Nahuelbuta · Refugio Bosque
+Nativo · Ecoturismo Chanleo · Almacén Don Fernando · Cabañas Nahuelbuta ·
+Ecocamping El Rincón · Sendero Los Avellanos · La Casona "Gastronomía de
+Montaña" · Los Hornitos de Nahuelbuta · Cabaña y Desayunos Viejo Roble ·
+Cabaña Coimallín · Cabañas El Cajón de Nahuelbuta · Cabañas Alto los
+Corrales.
 
 ## Gastronomía
 
@@ -121,10 +297,12 @@ al cargar en el admin.
 | Restaurant Ruiz | Km 37 camino Parque Nacional Nahuelbuta | 9 8837 5655 | Gastronomía de montaña y cocina casera, camino al parque |
 | Tentaciones M&J | Prat N°90, esquina Julio Sepúlveda | 9 4083 0726 | Preparaciones dulces y saladas, sabores caseros |
 
-*Nota: "Restaurant Ruiz" (camino al parque) parece un negocio distinto del
-"Hotel Ruiz" (Bernardo O'Higgins 331) ya listado en Alojamiento — mismo
-apellido, no confirmado si es la misma familia. Verificar antes de cargar
-ambos como negocios separados.*
+*Nota (actualizada): "Restaurant Ruiz" (Km 37, tel. 9 8837 5655) y
+"Cabañas Ruiz" (Km 36, mismo teléfono — ver sección Alojamiento) son el
+**mismo negocio familiar**, combinando restaurant + cabañas camino al
+parque. Ambos son distintos del "Hotel Ruiz" en el centro de Angol
+(Bernardo O'Higgins 331, tel. +56 45 271 9156) — mismo apellido, sin
+confirmar relación familiar, pero son 3 negocios separados a cargar.*
 
 **Cocinerías**
 
