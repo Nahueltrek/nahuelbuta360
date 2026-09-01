@@ -8,7 +8,7 @@ defineProps({
 
 <template>
   <div class="min-h-screen bg-glacier text-ink font-body antialiased">
-    <header class="px-6 md:px-10 py-5 max-w-5xl mx-auto flex items-baseline justify-between">
+    <header class="px-6 md:px-10 py-5 max-w-5xl mx-auto flex items-baseline justify-between animate-fade-in">
       <Link href="/" class="font-mono text-xs uppercase tracking-wide text-river-dark hover:underline">
         ← Ruta 360
       </Link>
@@ -16,16 +16,17 @@ defineProps({
     </header>
 
     <main class="px-6 md:px-10 max-w-5xl mx-auto pb-16">
-      <h1 class="font-display font-medium text-3xl md:text-4xl mt-4 mb-10">
+      <h1 class="font-display font-medium text-3xl md:text-4xl mt-4 mb-10 animate-fade-in-up">
         Notas de Nahuelbuta
       </h1>
 
       <div v-if="articles.length" class="grid gap-5 sm:grid-cols-2">
         <Link
-          v-for="a in articles"
+          v-for="(a, i) in articles"
           :key="a.slug"
           :href="`/blog/${a.slug}`"
-          class="bg-paper rounded-xl p-6 border border-ink/10 block hover:border-river/40 transition-colors"
+          class="bg-paper rounded-xl p-6 border border-ink/10 block transition-all duration-300 hover:border-river/40 hover:-translate-y-1 animate-fade-in-up"
+          :style="{ animationDelay: (0.05 * i) + 's' }"
         >
           <h2 class="font-display text-xl leading-snug">{{ a.title }}</h2>
           <p v-if="a.excerpt" class="text-sm text-ink/65 mt-2.5 leading-relaxed">{{ a.excerpt }}</p>

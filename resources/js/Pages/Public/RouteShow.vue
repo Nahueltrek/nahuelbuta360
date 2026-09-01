@@ -27,13 +27,13 @@ const mapAttractions = computed(() =>
 
 <template>
   <div class="min-h-screen bg-glacier text-ink font-body antialiased">
-    <header class="px-6 md:px-10 py-5 max-w-3xl mx-auto">
+    <header class="px-6 md:px-10 py-5 max-w-3xl mx-auto animate-fade-in">
       <Link href="/" class="font-mono text-xs uppercase tracking-wide text-river-dark hover:underline">
         ← Ruta 360
       </Link>
     </header>
 
-    <main class="px-6 md:px-10 max-w-3xl mx-auto pb-16">
+    <main class="px-6 md:px-10 max-w-3xl mx-auto pb-16 animate-fade-in-up">
       <span class="font-mono text-[11px] uppercase tracking-wide text-scrub">Ruta de trekking</span>
       <h1 class="font-display font-medium text-3xl md:text-4xl mt-2 leading-tight text-balance">
         {{ route.name }}
@@ -60,7 +60,12 @@ const mapAttractions = computed(() =>
       <section v-if="route.points.length" class="mt-10 border-t border-ink/10 pt-6">
         <h2 class="font-display text-lg mb-4">Itinerario</h2>
         <ol class="space-y-4">
-          <li v-for="p in route.points" :key="p.position" class="flex gap-4">
+          <li
+            v-for="p in route.points"
+            :key="p.position"
+            class="flex gap-4 animate-fade-in-up"
+            :style="{ animationDelay: (0.04 * p.position) + 's' }"
+          >
             <span class="font-mono text-sm text-river-dark shrink-0 w-6">{{ p.position }}</span>
             <div>
               <p class="font-medium text-sm">{{ p.item?.name ?? 'Punto sin datos' }}</p>

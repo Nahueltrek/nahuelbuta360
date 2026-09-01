@@ -35,13 +35,13 @@ const verificationLabel = {
 
 <template>
   <div class="min-h-screen bg-glacier text-ink font-body antialiased">
-    <header class="px-6 md:px-10 py-5 max-w-3xl mx-auto">
+    <header class="px-6 md:px-10 py-5 max-w-3xl mx-auto animate-fade-in">
       <Link href="/" class="font-mono text-xs uppercase tracking-wide text-river-dark hover:underline">
         ← Ruta 360
       </Link>
     </header>
 
-    <main class="px-6 md:px-10 max-w-3xl mx-auto pb-16">
+    <main class="px-6 md:px-10 max-w-3xl mx-auto pb-16 animate-fade-in-up">
       <span class="font-mono text-[11px] uppercase tracking-wide text-scrub">
         {{ business.category ?? 'Sin categoría' }}
       </span>
@@ -100,7 +100,12 @@ const verificationLabel = {
       <section class="mt-10 border-t border-ink/10 pt-6">
         <h2 class="font-display text-lg mb-3">Reseñas</h2>
         <div v-if="business.reviews.length" class="space-y-4">
-          <article v-for="(r, i) in business.reviews" :key="i" class="bg-paper rounded-lg p-4 border border-ink/10">
+          <article
+            v-for="(r, i) in business.reviews"
+            :key="i"
+            class="bg-paper rounded-lg p-4 border border-ink/10 transition-colors hover:border-river/30 animate-fade-in-up"
+            :style="{ animationDelay: (0.05 * i) + 's' }"
+          >
             <span class="font-mono text-sm">★ {{ r.rating }}/5</span>
             <p v-if="r.comment" class="text-sm text-ink/70 mt-1.5">{{ r.comment }}</p>
           </article>

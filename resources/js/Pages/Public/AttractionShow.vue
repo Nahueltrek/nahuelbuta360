@@ -12,13 +12,13 @@ const mapPoint = computed(() => (props.attraction.latitude ? [{ ...props.attract
 
 <template>
   <div class="min-h-screen bg-glacier text-ink font-body antialiased">
-    <header class="px-6 md:px-10 py-5 max-w-3xl mx-auto">
+    <header class="px-6 md:px-10 py-5 max-w-3xl mx-auto animate-fade-in">
       <Link href="/" class="font-mono text-xs uppercase tracking-wide text-river-dark hover:underline">
         ← Ruta 360
       </Link>
     </header>
 
-    <main class="px-6 md:px-10 max-w-3xl mx-auto pb-16">
+    <main class="px-6 md:px-10 max-w-3xl mx-auto pb-16 animate-fade-in-up">
       <span class="font-mono text-[11px] uppercase tracking-wide text-rock">
         {{ attraction.category ?? 'Atractivo' }}
       </span>
