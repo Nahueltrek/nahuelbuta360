@@ -24,30 +24,48 @@ y conviene reconfirmarlos abriendo el link antes de publicar.
 ## Parque Nacional Nahuelbuta (CONAF)
 
 - **Parque Nacional Nahuelbuta** — ~6.832 ha en la Cordillera de la Costa,
-  bosques de araucaria milenaria. Administración/camping en sector Pehuenco.
-  Distancia desde Angol: **34–42 km según la fuente** (discrepancia sin
-  zanjar, camino de tierra). Horario 9:00–18:00. Contacto:
+  bosques de araucaria milenaria. Se divide en 3 sectores: **Pehuenco**,
+  **Coimallín** y **Cótico**, cada uno con paisajes propios. Administración
+  y camping principal en sector Pehuenco. Horario 9:00–18:00. Contacto:
   parque.nahuelbuta@conaf.cl.
   Fuente: [CONAF](https://www.conaf.cl/parques/parque-nacional-nahuelbuta/)
-  (vía snippet, no fetch directo).
+  (vía snippet, no fetch directo) · Afiche oficial "Atractivos Turísticos
+  Nahuelbuta" (Municipalidad de Angol / Depto. Turismo, subido por el
+  usuario).
   Coordenadas: no verificadas por fetch directo (Wikipedia reporta
   37°47′00″S 72°59′00″W vía snippet — reconfirmar).
-- **Sendero Piedra del Águila** — circuito 4,5 km desde el camping hasta el
-  mirador homónimo, bosque de ñirre/coihue/araucaria/lenga, apto todo público.
-  Fuente: [Andeshandbook](https://www.andeshandbook.org/senderismo/ruta/575/Piedra_del_Aguila)
-  (vía snippet).
-- **Sendero Casa de Piedra** — conecta la entrada Oeste del parque con Piedra
-  del Águila.
-  Fuente: [Chile Es Tuyo](https://chileestuyo.cl/parque-nacional-nahuelbuta-y-sus-senderos/)
-  (vía snippet).
-- **Sendero Cerro Anay** — 5 km, ~3 h ida/vuelta, todo público.
-  Misma fuente que el anterior.
-- **Sendero Estero Los Gringos** — hacia el Cerro Anay (1.378 msnm).
-  Misma fuente.
-- **Sendero interpretativo "El Camino del Árbol"** — 200 m autoguiado, 12
-  estaciones, bosque nativo. Misma fuente.
+- **Senderos del parque — tabla oficial** (distancia, tiempo y altitud
+  máxima confirmados por el afiche municipal; reemplaza estimaciones
+  previas de fuentes secundarias):
+
+  | Sendero | Distancia | Tiempo | Altitud máx. | Dificultad |
+  |---|---|---|---|---|
+  | El Aguilucho | 1,8 km | 1 h | 1.275 msnm | Media |
+  | Piedra del Águila | 4,5 km | 2 h | 1.375 msnm | Media |
+  | Casa de Piedra | 1,5 km | 1 h | 1.379 msnm | Baja |
+  | Cerro Anay | 0,8 km | 0,5 h | 1.400 msnm | Media |
+  | Estero Los Gringos | 5 km | 2,3 h | 1.400 msnm | Media |
+  | Camino del Árbol | 0,2 km | 0,3 h | 1.075 msnm | Baja |
+
+  Desde Piedra del Águila se observa el océano Pacífico, el valle central y
+  los volcanes andinos en días despejados. Fauna reportada en el parque:
+  pudú, zorro Chilote/de Darwin, monito del monte, puma, carpintero negro,
+  chucao, lagarto torcuato.
+  Fuente: Afiche oficial "Atractivos Turísticos Nahuelbuta" (Municipalidad
+  de Angol / Depto. Turismo).
+- **Astroturismo en el parque** — la Cordillera de Nahuelbuta alcanza su
+  **altitud máxima oficial de 1.560 msnm en el Cerro Alto Nahuelbuta**
+  (corrige el dato de 1.532 msnm que se había usado provisionalmente en el
+  hero del sitio, tomado de una fuente secundaria — este valor municipal es
+  más autoritativo). Baja contaminación lumínica, apto para observación de
+  Vía Láctea y fotografía nocturna.
+  Fuente: Afiche oficial "Atractivos Turísticos Nahuelbuta".
 - **Camping Pehuenco (CONAF)** — 10 sitios, mesas, fogones, baños rústicos,
-  agua; abierto todo el año. Fuente: snippet CONAF/Cañete Turístico.
+  agua; abierto todo el año. Ubicado al sur del parque, **42,5 km de
+  Angol** (confirma el rango previo de 34-42 km — el número oficial es 42,5
+  km). Tel. 9 9643 6927.
+  Fuente: snippet CONAF/Cañete Turístico · Afiches oficiales municipales
+  (alojamiento y atractivos).
 - **Sendero El Avellano** (nombre correcto — un segundo afiche municipal lo
   nombra distinto al primero, que decía "Los Avellanos" en plural) —
   bifurcación izquierda, sector Los Toldos - Vegas Blancas. Sendero natural
@@ -408,19 +426,24 @@ de cargar ambos.*
 
 ## Cultura / historia
 
-- **Museo Histórico Dillman S. Bullock** — museo privado, piezas
-  etnográficas y arqueológicas precolombinas (cultura mapuche y
-  pre-mapuche), fauna endémica taxidermizada; 3 salas. KM 5 camino
-  Angol–Collipulli, sector El Vergel. Horario L–V 08:30–13:00 y 14:00–16:30.
+- **Museo Histórico Dillman S. Bullock** — museo de arqueología, piezas
+  etnográficas y precolombinas (cultura mapuche y pre-mapuche), fauna
+  endémica taxidermizada. Ubicación corregida por fuente oficial: **Km 8,
+  Centro Turístico El Vergel** (una fuente secundaria decía Km 5 — el
+  afiche municipal es más confiable). Horario L–V 08:30–13:00 y
+  14:00–16:30.
   Fuente: [Wikipedia](https://es.wikipedia.org/wiki/Museo_Hist%C3%B3rico_Dillman_S._Bullock)
   (vía snippet) · [Registro de Museos de Chile](https://www.registromuseoschile.cl/663/w3-article-93561.html) ·
-  [Instagram oficial](https://www.instagram.com/museo.dillman_bullock/).
+  [Instagram oficial](https://www.instagram.com/museo.dillman_bullock/) ·
+  Afiche oficial "Atractivos Turísticos Nahuelbuta" (Municipalidad de
+  Angol).
 - **Plaza de Armas de Angol (Plaza Siete Fundaciones / Aníbal Pinto)** —
   espejo de agua rectangular y 4 esculturas de mármol de Virginio Arias
   (1892, representan los continentes); Monumento Nacional desde el
   4/8/1986. Junto a la Iglesia Inmaculada Concepción.
   Fuente: [Consejo de Monumentos Nacionales](https://www.monumentos.gob.cl/monumentos/monumentos-historicos/esculturas-y-espejo-de-agua-ubicadas-en-la-plaza-de-armas-de-angol)
-  (vía snippet) · [Wikipedia](https://es.m.wikipedia.org/wiki/Plaza_de_Armas_de_Angol).
+  (vía snippet) · [Wikipedia](https://es.m.wikipedia.org/wiki/Plaza_de_Armas_de_Angol) ·
+  confirmado por afiche oficial municipal.
 - **Fuerte Cancura (Fuerte de Angol)** — sitio histórico de 1867, junto a la
   ruta hacia Collipulli, terreno municipal; vinculado a la ocupación militar
   de la Araucanía (refundación de Angol, 7/12/1862). Prensa de 2019 reporta
@@ -428,12 +451,87 @@ de cargar ambos.*
   atractivo visitable.
   Fuente: [Cooperativa.cl](https://cooperativa.cl/noticias/pais/region-de-la-araucania/denuncian-destruccion-en-fuerte-de-angol-que-data-de-1867/2019-06-02/093901.html).
 - **Festival Folclórico "Brotes de Chile"** — +35 años de historia (40°
-  edición en 2025); incluye Muestra de Arte Popular en Plaza Siete
+  edición en 2025); "el festival folclórico más grande de la región" según
+  el afiche municipal. Incluye Muestra de Arte Popular en Plaza Siete
   Fundaciones (~40 expositores de artesanía en greda, madera, plata y
   cuero) y feria de las pulgas en Parque Vergara. **Evento anual, no un
   local permanente** — cargar como evento con fecha, no como negocio fijo.
   Fuente: [Araucanía Noticias](https://araucanianoticias.cl/2025/angol-se-prepara-para-los-40-anos-del-festival-brotes-de-chile-una-fiesta-de-identidad-arte-y-tradicion/1106293227) ·
-  [Las Noticias de Malleco](https://lasnoticiasdemalleco.cl/informacion-general/feria-de-las-pulgas-de-brotes-de-chile-se-instalara-en-parque-vergara-de-angol-no-mas-de-300-comerciantes/).
+  [Las Noticias de Malleco](https://lasnoticiasdemalleco.cl/informacion-general/feria-de-las-pulgas-de-brotes-de-chile-se-instalara-en-parque-vergara-de-angol-no-mas-de-300-comerciantes/) ·
+  Afiche oficial municipal.
+
+### Circuito de museos — fuente oficial (afiche "Atractivos Turísticos Nahuelbuta")
+
+| Museo | Dirección | Descripción |
+|---|---|---|
+| Museo Histórico Julio Abasolo | Caupolicán #901 | Historia urbana, social y patrimonial de Angol |
+| Museo Dillman Bullock | Km 8, Centro Turístico El Vergel | Arqueología, legado del naturalista Dillman Bullock |
+| Sala Histórica Regimiento Húsares N°3 | Los Confines N° 330 | Uniformes y objetos de la historia militar del Regimiento |
+| Parroquia Inmaculada Concepción | Avenida Manuel Bunster 337 | Templo religioso emblemático, valor histórico y arquitectónico |
+| Museo Hermanas Franciscanas | Traiguén 750 | Objetos educativos, litúrgicos y comunitarios de las Hermanas Franciscanas |
+
+### Atractivos naturales y urbanos — fuente oficial
+
+| Atractivo | Ubicación | Descripción |
+|---|---|---|
+| Centro Turístico El Vergel | Km 8 al este de Angol, ruta a Collipulli | Áreas verdes, incluye el Museo Dillman Bullock y un criadero de plantas ornamentales |
+| Parque Alberto Larraguibel | Sector Huequén, Angol | Área verde urbana, recreación y actividades culturales |
+| Canteras de Deuco | 8 km al sur de Angol, camino a Los Sauces | Lagunas de aguas tranquilas en antiguos tajos de roca, fotografía y paseos |
+| Balneario La Peta | 600 m al oeste de la Plaza de Armas, orillas del río Picoiquén | Balneario de recreación, ribera arbolada |
+| Parque Escuela Normal (Vergara) | Costanera Rehue, junto a Universidad La Frontera | Áreas verdes, skatepark, patinódromo, senderos peatonales |
+
+### Sector Maitenrehue — fuente oficial (afiche "Atractivos Turísticos Nahuelbuta")
+
+Sector rural a **40 km al norte de Angol**, con paisajes rurales, bosque
+nativo y biodiversidad. Contiene varios atractivos puntuales listados por
+el afiche sin dirección exacta (requiere geolocalizar con quien administre
+el sector antes de cargar como puntos individuales):
+
+- Salto de la Sabanilla (cascada)
+- Zona de Picnic Sector Puente Las Ánimas
+- Balneario Maitenrehue
+- Capilla de La Candelaria
+- Parque Santuario (Lomas del Toro – Sector Roble Bonito)
+- Vivero de Copihues "Maitenrehue"
+- Viñas y Vinos Artesanales
+- Mujeres Productoras de Merkén
+- **Rehue (Altar Sagrado Mapuche)** — el elemento de cultura mapuche
+  verificable que el plan original pedía y no se había encontrado; sin
+  más detalle de ubicación en la fuente, requiere contacto directo con la
+  comunidad antes de publicar coordenadas.
+
+También se reporta la presencia estacional de la **luciérnaga chilena**
+(*Lamprohiza splendidula*), protagonista de la "Fiesta de las Candelillas"
+en los meses cálidos — atractivo de temporada, no cargar como negocio fijo.
+
+Fuente: Afiche oficial "Atractivos Turísticos Nahuelbuta" (Municipalidad de
+Angol / Depto. Turismo).
+
+### Angol, capital del Mountain Bike — fuente oficial
+
+- **Parque CMPC Junquillar** (sector Acequias, final calle Colima) —
+  escenario de eventos regionales/nacionales de mountain bike: International
+  Cup, XCO CMPC Angol, Campeonato Nacional de Downhill Chile.
+- **Acequias Paradise** — festival de mountain bike en el sector Las
+  Acequias, Junquillar.
+- **Raid Angol – Nahuelbuta** — competencia 4x4 desde 1992, organizada por
+  el Club Raid Nahuelbuta 4x4 Angol con apoyo municipal; recorridos hacia
+  Maitenrehue y Vegas Blancas.
+
+Fuente: Afiche oficial "Atractivos Turísticos Nahuelbuta".
+
+### Atractivos de recreación — fuente oficial (confirma/complementa camping ya listado)
+
+| Atractivo | Ubicación | Descripción |
+|---|---|---|
+| Piscina Municipal | Complejo Deportivo Alberto Larraguibel Morales | Recreación acuática, temporada de verano |
+| Sector Arcadia | Sector Huequén, Ruta R-182 Km 8 | Espacio natural junto al río para descanso |
+| Parque Vergara | Av. O'Higgins, costado puente Vergara, Costanera Rehue | Áreas verdes familiares |
+| Ciclovía Puente Malleco – ex línea férrea | Hacia Canteras de Deuco | Proyecto de ciclovía, baja dificultad |
+| Parque Junquillar | Final calle Colima | Circuitos de ciclismo y senderos, apto niños y adultos |
+| Trekking Parque Junquilla | Calle Colima hasta Ruta Las Acequias (R-150-P, km 0) | Senderos de distintos niveles de dificultad |
+| Camping El Manzano | Sector El Manzano, 20 km de Angol | Playa natural, ambiente rural |
+| Camping Las Quilas | Km 22, Angol–El Manzano | Camping familiar, servicios básicos |
 
 ## Turismo aventura
 
@@ -465,6 +563,12 @@ física o punto de encuentro real de cada uno antes de ponerles un pin.
 | Nahueltour | 45 2 715457 / +56 9 8988 7826 |
 | Nahueltrek | +56 9 6814 9431 / +56 9 9854 3632 |
 | Nahuelbuta Overland | +56 9 7888 3700 / +56 9 7669 8618 |
+
+*Nota: un tercer afiche oficial ("Atractivos Turísticos Nahuelbuta") lista
+2 operadores adicionales — "Turismo piedra del aguila" (9 8904 6597,
+coincide) y confirma los mismos 4 restantes — pero da "Weñitour" con tel.
+**9 6330 0788**, distinto al 9 6230 0788 de arriba. Confirmar antes de
+cargar.*
 
 ## Transporte
 
@@ -515,16 +619,30 @@ negocio que combina terminal privado + restaurant, tal como se anotó ahí.*
 | Turismo Salgatur | +56 9 9874 2349 |
 | Trascender Transporte y Turismo | +56 9 7582 0128 |
 
+*Nota: el afiche "Atractivos Turísticos Nahuelbuta" repite "Buses
+Aguilera" dos veces con teléfonos distintos (9 7609 7250 y 9 6615 9619) —
+el primero coincide con "Transporte Urra" de la tabla de arriba, no con
+Buses Aguilera. Parece un error de esa fuente (mezcló dos filas); usar los
+datos de esta tabla como la versión correcta hasta confirmar por teléfono.*
+
 ## Categorías sin datos verificables suficientes
 
-- **Camping** privado (fuera de CONAF/Pehuenco): no se encontró ninguno con
-  fuente independiente confiable en Angol o alrededores.
+- **Camping** privado (fuera de CONAF/Pehuenco): **actualizado** — ya no
+  aplica, ver "Atractivos de recreación" en Cultura/historia: Camping El
+  Manzano y Camping Las Quilas son privados/municipales y están
+  confirmados por fuente oficial, además de Camping Pehuenco (CONAF) y
+  Camping Los Panchos (ver Alojamiento ampliado).
 - **Comercio** turístico permanente (souvenirs, productos locales): sin
-  hallazgos verificables más allá de la feria estacional "Brotes de Chile".
-- **Artesanía/cultura mapuche permanente** (centro o feria activa todo el
-  año en la comuna de Angol): no se encontró — sí hay ferias mapuche en
-  otras comunas (Cañete, Osorno, Villarrica) pero quedan fuera del alcance
-  del piloto (Angol).
+  hallazgos verificables más allá de la feria estacional "Brotes de Chile"
+  y "Artesanía Las Rosas de Nahuelbuta" (Vegas Blancas km 36, ver
+  Alojamiento ampliado — venta de artesanía local, no es un evento).
+- **Artesanía/cultura mapuche permanente**: **actualizado** — el sector
+  Maitenrehue (40 km al norte de Angol, ver Cultura/historia) aporta un
+  **Rehue (Altar Sagrado Mapuche)** y "Mujeres Productoras de Merkén",
+  ambos sin dirección exacta en la fuente — requieren contacto directo con
+  la comunidad de Maitenrehue antes de publicar ubicación. Sigue sin
+  encontrarse un centro o feria de artesanía mapuche de funcionamiento
+  regular *dentro* de la ciudad de Angol misma.
 
 ---
 
