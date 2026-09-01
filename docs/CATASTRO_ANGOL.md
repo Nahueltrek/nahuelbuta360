@@ -1,8 +1,9 @@
 # Catastro real — Angol, Región de La Araucanía
 
 Catastro piloto de negocios y atractivos para Nahuelbuta 360, comuna de Angol.
-Investigado vía búsqueda web con fuentes verificables (misma disciplina que
-Cajón del Maipo: **nada inventado**).
+Investigado vía búsqueda web y fuentes oficiales aportadas directamente
+(guía municipal en PDF), con la misma disciplina que Cajón del Maipo:
+**nada inventado**.
 
 **Este documento es insumo para carga manual vía el panel de admin, no un
 seeder.** Ningún ítem trae coordenadas precisas verificadas — el esquema exige
@@ -74,14 +75,158 @@ agregados pero sin confirmación independiente de vigencia/contacto.
 - **El Quincho de Manolo** — cocina chilena, "picada" reconocida, música en
   vivo, decoración con reliquias; mérito turístico (mención gastronomía) de
   Angol, 3° mejor picada de La Araucanía según reseñas, #3 de 23 restaurantes
-  de Angol en Tripadvisor. Julio Sepúlveda #645, Angol. Tel. +56 9 4047 6589.
+  de Angol en Tripadvisor. Julio Sepúlveda 645, Angol. Tel. +56 9 4047 6589 /
+  45 3 214025 / 9 3219 2719 (confirmado también en la guía @angolturismo,
+  "carnes a las brasas y parrilladas tradicionales, ambiente rústico y
+  familiar").
   Fuente: [Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g2444676-d5990145-Reviews-El_Quincho_de_Manolo-Angol_Araucania_Region.html) ·
-  [SERNATUR](https://serviciosturisticos.sernatur.cl/12662-el-quincho-de-angol).
+  [SERNATUR](https://serviciosturisticos.sernatur.cl/12662-el-quincho-de-angol) ·
+  Guía "Servicios Gastronómicos Angol" (@angolturismo).
 - **Ristorante La Vecchia Signora** — italiano, 27 reseñas, valorado como el
-  mejor italiano de Angol por usuarios. Dirección no verificada.
-  Fuente: [Tripadvisor — Restaurantes en Angol](https://www.tripadvisor.com/Restaurants-g2444676-Angol_Araucania_Region.html).
-- **Restaurante Dublé** — pizzería, 19 reseñas, $$-$$$. Misma fuente.
-- **Pastelería Garrido** — café chileno, 19 reseñas. Misma fuente.
+  mejor italiano de Angol por usuarios. Dirección confirmada por la guía
+  @angolturismo: Pedro Aguirre Cerda 566. Tel. 9 9099 7050 / 9 3749 0719.
+  "Gastronomía italiana y pastas artesanales, recetas tradicionales."
+  Fuente: [Tripadvisor — Restaurantes en Angol](https://www.tripadvisor.com/Restaurants-g2444676-Angol_Araucania_Region.html) ·
+  Guía "Servicios Gastronómicos Angol" (@angolturismo).
+- **Restaurante Dublé** — pizzería, 19 reseñas, $$-$$$. Misma fuente
+  (Tripadvisor). No aparece en la guía @angolturismo — dirección aún sin
+  confirmar por segunda fuente.
+- **Pastelería Garrido** — café chileno, 19 reseñas en Tripadvisor.
+  Confirmado como **"Restaurant Pastelería Garrido"** en la guía
+  @angolturismo: Lautaro 144. Tel. 45 2 463904 / 9 8137 7492. "Combina
+  gastronomía casera y pastelería tradicional, colaciones abundantes y
+  repostería artesanal."
+  Fuente: Tripadvisor · Guía "Servicios Gastronómicos Angol" (@angolturismo).
+
+### Catastro ampliado — Guía oficial "Servicios Gastronómicos Angol" (@angolturismo)
+
+Fuente completa para todo lo que sigue en esta subsección: guía turística
+municipal en PDF, cuenta oficial de Instagram `@angolturismo` — subida
+directamente por el usuario, no vía web search. Domicilios y teléfonos tal
+como figuran impresos (varios negocios listan más de un teléfono). Sin
+coordenadas en la fuente — igual que el resto del documento, se geocodifican
+al cargar en el admin.
+
+**Restaurantes**
+
+| Nombre | Dirección | Teléfono | Descripción |
+|---|---|---|---|
+| Restaurant Don Matías | Pedro Aguirre Cerda 213 | 9 8839 1921 | Cocina tradicional chilena, colaciones y preparaciones criollas |
+| Hostería Sabores de Mamy | Valle San Juan, Parcela 107 | 9 8127 9087 | Gastronomía de campo y platos tradicionales |
+| Fuente Angolina | Óscar Bonilla 456 | 9 8613 4888 | Fuente de soda tradicional, sándwiches y completos |
+| Don Julián | Av. O'Higgins 1340, Los Pablos | 9 7547 5077 | Carnes a las brasas y parrilladas, cocina chilena tradicional |
+| Restaurant Club Social | Caupolicán 498 | 45 2 717593 / 9 9789 5639 | Gastronomía tradicional de larga trayectoria, carta refinada |
+| Restaurant Odas al Cárnico | Caupolicán 520 | 9 5195 1873 | Cortes de carne premium y parrilladas, cocción a las brasas |
+| Restaurante El Ermitaño | Km 4,5 Ruta Angol–Renaico | 9 5517 5297 | Carnes a las brasas y gastronomía típica chilena, entorno natural |
+| Restaurant Ruiz | Km 37 camino Parque Nacional Nahuelbuta | 9 8837 5655 | Gastronomía de montaña y cocina casera, camino al parque |
+| Tentaciones M&J | Prat N°90, esquina Julio Sepúlveda | 9 4083 0726 | Preparaciones dulces y saladas, sabores caseros |
+
+*Nota: "Restaurant Ruiz" (camino al parque) parece un negocio distinto del
+"Hotel Ruiz" (Bernardo O'Higgins 331) ya listado en Alojamiento — mismo
+apellido, no confirmado si es la misma familia. Verificar antes de cargar
+ambos como negocios separados.*
+
+**Cocinerías**
+
+| Nombre | Dirección | Teléfono | Descripción |
+|---|---|---|---|
+| Donde Pelluco | Manuel Bunster 551 | 9 8439 5581 | Cocina criolla, platos caseros abundantes |
+| Cocinería el Fogón | Caupolicán 202 | 9 9664 2980 | Cocina tradicional del sur de Chile, menús diarios |
+| Don Choche Restaurant | Vergara 191 | 9 9991 6680 / 9 4974 8682 | Comida casera y preparaciones de estilo campestre |
+| Restaurant La Morena | Chorrillos 551 | 9 7678 5545 | Comida casera y colaciones tradicionales |
+| Sociedad de Artesanos | Arturo Prat 343 | 45 2 714626 / 9 7510 1420 | Gastronomía tradicional y cocina casera, ambiente familiar |
+| Restaurant Rancel Tour | Ilabaca 524 | 9 8815 9015 / 44 305 0411 | Junto a terminal de buses privado; cocina chilena + transporte |
+| Carloncho Restaurant | Manuel Bunster 897 | 45 2 715709 / 9 7577 9274 | Cocina tradicional y casera, carnes y parrilladas |
+
+**Cafeterías y pastelerías**
+
+| Nombre | Dirección | Teléfono | Descripción |
+|---|---|---|---|
+| Café Café | Chorrillos 468, interior | 45 2 716471 | Café, bebidas calientes y pastelería |
+| Cafetería Laulhere | Chorrillos 342 | 9 8206 3132 | Bebidas y pastelería artesanal |
+| Cafetería y Heladería Central | Chorrillos 350 | 9 6140 0090 | Café, bebidas y helados |
+| El Canelo | Bilbao 202 | 9 2166 4349 | Bebidas y repostería artesanal; espacio de meditación |
+| Espacio Work Angol | Óscar Bonilla 448 | 9 2837 4298 | Cafetería + espacio de coworking/reuniones |
+| Finnis Coffee | Maipú 047 | 9 8817 6552 | Café y bebidas calientes, panadería/repostería |
+| Pili's Coffee | Av. O'Higgins 1677 B | 9 4857 0117 | Café de especialidad y pastelería |
+| Pukara Café | Vergara 397 B | 9 8414 5366 | Café y pastelería artesanal, ambiente rústico |
+| Tetería Dulce Pecado | Av. O'Higgins 1744 | 9 9918 8176 | Té, café y pastelería, espacio para onces |
+
+**Comida internacional**
+
+| Nombre | Dirección | Teléfono | Descripción |
+|---|---|---|---|
+| Restaurant Waki | Caupolicán 601, 2° piso | 9 9577 8735 | Gastronomía peruana, pastas artesanales, tragos |
+| Chef Diego | Juan Sallato 2699 | 45 2 719149 | Gastronomía típica peruana, ceviches, tragos |
+| Bar Restaurant Ancash | Manuel Bunster 598 | 9 2246 7809 | Gastronomía peruana tradicional |
+| Choza Andina | Av. O'Higgins N° 2598 | 9 4169 0542 | Gastronomía peruana, platos tradicionales |
+| Cocinería La Limeña | Óscar Bonilla 750 | 9 8624 5228 | Gastronomía peruana auténtica |
+| Comidas Árabes Angol | 2,5 camino Angol-Collipulli, parcela 7 | 9 5771 3044 | Gastronomía árabe y comida casera |
+| Árabia Shawarma | José Bunster esq. Peteroa, Las Naciones | 9 5230 4191 | Gastronomía árabe y comida casera |
+| Restaurante VEN GEN | Prat N° 65D | 9 5658 0058 | Comida asiática |
+| Rincón Oriental | Campo de Marte 082B | (45) 321 9844 | Gastronomía oriental china tradicional |
+
+**Comida italiana y pizzas**
+
+| Nombre | Dirección | Teléfono | Descripción |
+|---|---|---|---|
+| Modo Pizza | Av. O'Higgins 350 | 9 6483 2691 / 45 2 426470 | Pizzas variadas, formato rápido |
+| Pizzería Deja Vu | Chacabuco 029 | 45 2 517099 | Pizzas variadas, sándwiches, delivery |
+| Las Pizzas de Don Pedro | Lautaro 589 | 9 8134 8432 / 45 2 717737 | Pizzas tradicionales, cocteles/cervezas |
+| Taglis Angol | José Luis Osorio 390 | 45 2 516968 / 45 2 517968 | Pizzas, tragos, pastas, carnes, terraza y eventos |
+| Sparlatto Pizza | Manuel Bunster 202 | 45 2 716272 / 9 5790 5804 | Pizzas para llevar, atención rápida |
+| Turbo Pizzas | Av. O'Higgins 579 | 9 8467 8556 | Pizzas venta rápida |
+| Mc Pizza | O'Higgins 247/253 | 9 4278 4257 | Pizzas variadas |
+| La Rebeldía | Bernardo O'Higgins N°805 | 9 5635 9595 | Pizzería napolitana, horno a leña, pet friendly, accesible |
+
+**Sushi y comida fusión**
+
+| Nombre | Dirección | Teléfono | Descripción |
+|---|---|---|---|
+| Sushi Maso | Julio Sepúlveda 312 | 45 2 746864 / 9 6282 3587 | Sushi, pedidos directos |
+| Taberu Angol | Av. O'Higgins 1354 | 9 7601 3676 | Cocina japonesa, sushi y platos preparados |
+| Secreto Nikkei | Colima 442 | 9 9768 4112 | Cocina nikkei (fusión peruana-japonesa) |
+| Sushi Extremo | Av. O'Higgins 268 | 9 8969 3692 | Rolls variados, preparaciones japonesas frescas |
+| Seijaku Sushi | Artesanos N°296 | 9 3405 8230 | Sushi de inspiración japonesa |
+| Maki Sushi | Inés de Suárez 30 | 9 8786 4930 | Rolls clásicos, servicio rápido |
+
+**Comida rápida**
+
+| Nombre | Dirección | Teléfono | Descripción |
+|---|---|---|---|
+| Comida Rápida El Huaso | Quino 2, Huequén | 45 2 711382 / 9 4070 9316 | Preparaciones chilenas y sándwiches |
+| El Angolino Sanguchería 2 | Av. O'Higgins 331 | 9 8820 9482 | Sándwiches, completos |
+| Matambre Angol | Arturo Prat 364 | 9 7511 3083 / 45 2 712389 | Carne, sándwiches, comida rápida |
+| El Churrascón Sureño | Av. O'Higgins 2212 | 9 9779 2566 | Churrascos y sándwiches |
+| El Rincón de la Mechada | Av. O'Higgins 229 G | 9 7760 2189 | Sándwiches y carne mechada |
+| El Churrascón Criollo | Av. O'Higgins 508 D | 9 9779 2566 | Churrascos y sándwiches |
+| Kame House Comida Rápida | Av. O'Higgins 215 B | 9 9578 7573 / 9 3764 1455 | Hamburguesas, papas fritas, sándwiches |
+| Rustik Burger | Los Pablos 1340 | 44 303 3214 / 9 4178 4169 | Hamburguesas y comida rápida |
+| Salchipap | Av. O'Higgins #1315 | 9 8191 3367 | Salchipapas, completos, papas fritas |
+| Mr Burguer | Gral. Óscar Bonilla 428, local 10 | 9 9362 8297 | Hamburguesas artesanales, papas fritas |
+
+*Nota: "El Churrascón Sureño" y "El Churrascón Criollo" comparten el mismo
+teléfono (9 9779 2566) en la fuente pese a tener direcciones distintas —
+verificar si son dos locales de un mismo dueño o un error de la guía antes
+de cargar ambos.*
+
+**Pubs y restobares**
+
+| Nombre | Dirección | Teléfono | Descripción |
+|---|---|---|---|
+| Baguales Restobar | Av. O'Higgins 545 | 9 8466 0946 | Bebidas, tragos y ambiente nocturno |
+| Club Catedral | Bernardo O'Higgins 247 | 9 8206 3132 | Gastropub, coctelería, gastronomía urbana |
+| Entre Gallos | Pedro Aguirre Cerda 514 | 9 5863 0894 / 9 8461 5498 | Gastronomía urbana y coctelería |
+| Fuente de Soda y Shopería Bukanova | Av. O'Higgins 202 | 9 2065 9682 / 9 2187 1550 | Fuente de soda y shopería tradicional |
+| Místico | Pedro Aguirre Cerda 347 | 9 7252 0290 / 9 3770 4160 | Restobar y espacio cultural, ambiente artístico |
+| Santo's | Chorrillos 466 | 9 9091 6143 | Hamburguesas artesanales y coctelería |
+| Shopería María Victoria | Manuel Bunster 638 | 45 2 711718 / 9 6778 3186 | Restobar y shopería tradicional, cocina casera |
+| Sky Restobar | Club Aéreo, Bonilla S/N | 9 5211 3069 / 9 8155 6732 | Platos tradicionales y coctelería |
+| Tipo Tranquilo Beer & Bistró | Av. O'Higgins 350, 2° piso | 9 6908 3423 / 9 7389 5733 | Cocina y cervezas, ambiente acogedor |
+| Las Totoras | Ilabaca 806 | 9 5234 6197 | Cocina chilena y platos caseros |
+| Restaurant Tía Jenny | Manuel Bunster 533 | 9 9820 1328 | Restobar, gastronomía casera, opciones para compartir |
+| Aguas Frescas Resto-Bar | Av. O'Higgins 345 | 9 3631 4932 | Coctelería, ambiente relajado |
+| Lumbeer Restobar | Arturo Prat #442 | 9 4999 8642 | Tragos, cervezas, picoteo |
 
 ## Cultura / historia
 
