@@ -262,21 +262,80 @@ de cargar ambos.*
 - **Servicios Nahuelbuta (sector Itraque)** — operador creado el
   9/11/2015: rapel en puente ferroviario histórico, rapel en Canteras de
   Deuco, trekking sector Nahuelbuta, cabalgatas sector Itraque, kayak en La
-  Arcadia, astroturismo. **Verificar el sitio manualmente** antes de
-  publicar datos de contacto (fetch no confirmó lectura completa).
-  Fuente: [borderiodeitraque.cl](https://borderiodeitraque.cl/home-3/).
+  Arcadia, astroturismo. Tel. +56 9 6313 0618 (confirmado por la fuente
+  oficial de abajo).
+  Fuente: [borderiodeitraque.cl](https://borderiodeitraque.cl/home-3/) ·
+  Afiche oficial "Tour Operadores — Servicios de Transporte Angol 2026"
+  (Municipalidad de Angol / Depto. Turismo, Cultura y Deporte).
+
+### Tour operadores — fuente oficial (afiche municipal "Angol 2026")
+
+Aportado directamente por el usuario (no web search): afiche de la Ilustre
+Municipalidad de Angol, Departamento de Turismo, Cultura y Deporte, con el
+sello de Municipalidad Turística SERNATUR. Sin direcciones — son operadores
+que trabajan a pedido/WhatsApp, no locales con local físico fijo. Cargar
+como negocios de categoría "Turismo aventura" con `address` vacía o "Angol"
+según lo que permita el admin, y coordenadas del centro de Angol solo si el
+sistema exige un punto — de lo contrario, mejor esperar a confirmar oficina
+física o punto de encuentro real de cada uno antes de ponerles un pin.
+
+| Operador | Teléfono |
+|---|---|
+| Servicios Nahuelbuta | +56 9 6313 0618 |
+| Turismo Weñitours | +56 9 6230 0788 |
+| Turismo Piedra del Águila | +56 9 8904 6597 |
+| Nahueltour | 45 2 715457 / +56 9 8988 7826 |
+| Nahueltrek | +56 9 6814 9431 / +56 9 9854 3632 |
+| Nahuelbuta Overland | +56 9 7888 3700 / +56 9 7669 8618 |
 
 ## Transporte
 
 - **Terminal de Buses de Angol** — Gral. Óscar Bonilla 448 (una fuente dice
   "428" — **confirmar numeración exacta**). Empresas: Turbus, Buses JAC,
   Pullman Bus, Intersur, Pullman Cbeysur, Pullman JC, CruzMar. Destinos:
-  Santiago, Victoria, Valdivia, Osorno, Temuco, entre otros.
+  Santiago, Victoria, Valdivia, Osorno, Temuco, entre otros. El afiche
+  municipal (abajo) confirma que en realidad hay **varios terminales
+  distintos en Angol**, no uno solo — probablemente este listado por web
+  search corresponde a uno de ellos ("Terminal Rodoviario" es el candidato
+  más probable, verificar).
   Fuente: [Kupos](https://kupos.cl/es/terminales-de-buses/terminal-de-buses-de-angol) ·
   [Recorrido.cl](https://www.recorrido.cl/en/bus/terminals/terminal-angol).
 - **Buses JAC** — cubre Angol–Temuco (y otras rutas centro-sur), parte del
   grupo Turbus, fundada en 1959. Terminal en Temuco: Balmaceda 1005.
   Fuente: [Kupos](https://kupos.cl/en/bus/tickets/buses-jac).
+
+### Terminales y servicios de transporte — fuente oficial (afiche municipal "Angol 2026")
+
+Mismo afiche municipal que los tour operadores de arriba. Sin direcciones
+en la fuente (solo nombre + teléfono) — buscar cada uno en Google Maps al
+cargar.
+
+**Terminales de buses**
+
+| Terminal | Teléfono |
+|---|---|
+| Terminal de Buses Bío Bío | 45 2 464388 |
+| Terminal Rodoviario | 45 2 711854 |
+| Terminal Rancel Tour | +56 4430 50411 |
+| Terminal Rural | 45 2 712021 |
+| Buses Nahuelbuta | +56 9 8428 0416 |
+
+*Nota: "Terminal Rancel Tour" comparte teléfono con "Restaurant Rancel
+Tour" (Ilabaca 524, ya listado en Cocinerías) — confirma que es un mismo
+negocio que combina terminal privado + restaurant, tal como se anotó ahí.*
+
+**Transporte individual / fletes / radiotaxi**
+
+| Servicio | Teléfono |
+|---|---|
+| Radio taxi — Sr. Óscar Garrido | +56 9 8934 8017 |
+| Transporte Rivant | +56 9 9940 6423 / +56 9 7574 1105 |
+| Transporte Urra (Sra. Nancy Urra Jara) | +56 9 7609 7250 |
+| Buses Aguilera (Sr. Iván Aguilera Godoy) | +56 9 6615 9619 |
+| Buses Moncada (Sr. Guillermo Moncada) | +56 9 9419 0033 / 45 2 714090 |
+| Edison Castro — Verde Araucano | +56 9 7745 1972 |
+| Turismo Salgatur | +56 9 9874 2349 |
+| Trascender Transporte y Turismo | +56 9 7582 0128 |
 
 ## Categorías sin datos verificables suficientes
 
